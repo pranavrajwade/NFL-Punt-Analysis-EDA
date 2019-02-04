@@ -1,0 +1,38 @@
+Season_Year,GameKey,PlayID,GSISID,Player_Activity_Derived,Turnover_Related,Primary_Impact_Type,Primary_Partner_GSISID,Primary_Partner_Activity_Derived,Friendly_Fire,
+2016,5,3129,29492,Tackling,No,Helmet-to-body,33445,Tackling,Yes,Soldier Field
+2016,21,2587,32323,Blocked,No,Helmet-to-helmet,31930,Blocking,No,Nissan Stadium
+2016,29,538,29343,Blocked,No,Helmet-to-helmet,31059,Blocking,No,FedExField
+2016,45,1212,27595,Tackled,No,Helmet-to-helmet,31950,Tackling,No,MetLife
+2016,54,1045,32410,Blocking,No,Helmet-to-body,23259,Blocked,No,Bank of America Stadium
+2016,60,905,32444,Blocked,No,Helmet-to-body,31756,Blocked,Yes,Ford Field
+2016,144,2342,30171,Tackling,No,Helmet-to-body,29384,Tackled,No,New Era Field
+2016,149,3663,29793,Blocking,No,Helmet-to-helmet,32114,Blocked,No,Mercedes-Benz Superdome
+2016,189,3509,30384,Blocked,No,Unclear,Unclear,Unclear,Unclear,Arrowhead Stadium
+2016,218,3468,32403,Blocking,No,Helmet-to-helmet,32891,Blocked,No,Lucas Oil
+2016,231,1976,32120,Blocking,No,Helmet-to-body,32725,Blocked,No,M&T Bank Stadium
+2016,234,3278,27060,Tackled,No,Helmet-to-helmet,,Tackling,No,FirstEnergy Stadium
+2016,266,2902,33941,Tackling,No,Helmet-to-ground,,,,Lincoln Financial Field
+2016,274,3609,33069,Tackled,No,Helmet-to-helmet,24535,Tackling,No,CenturyLink Field
+2016,280,2918,33838,Blocking,No,Helmet-to-body,31317,Blocked,No,NRG Stadium
+2016,280,3746,31950,Tackling,No,Helmet-to-body,32677,Blocking,No,NRG Stadium
+2016,281,1526,28620,Tackling,No,Helmet-to-body,27860,Tackled,No,Arrowhead Stadium
+2016,289,2341,32783,Tackling,No,Helmet-to-helmet,32810,Tackling,Yes,FedExField
+2016,296,2667,33813,Tackling,No,Helmet-to-body,33841,Tackling,Yes,EverBank Field
+2017,357,3630,33260,Tackling,No,Helmet-to-helmet,31697,Tackled,No,Hard Rock Stadium
+2017,364,2489,31313,Blocked,No,Helmet-to-helmet,32851,Blocking,No,FedExField
+2017,364,2764,32615,Blocked,No,Helmet-to-body,31999,Blocking,No,FedExField
+2017,384,183,31057,Tackling,No,Helmet-to-body,32482,Tackled,No,Mercedes-Benz Stadium
+2017,392,1088,28128,Blocking,No,Helmet-to-body,29629,Blocked,No,Arrowhead Stadium
+2017,397,1526,23564,Tackled,No,Helmet-to-body,31844,Tackling,No,Levis Stadium
+2017,399,3312,32820,Blocking,No,Helmet-to-helmet,25503,Blocked,No,Gillette Stadium
+2017,414,1262,28987,Blocked,No,Helmet-to-ground,,,,Sports Authority Field at Mile High
+2017,448,2792,32894,Tackling,No,Helmet-to-helmet,31763,Tackled,No,Wembley Stadium
+2017,473,2072,28987,Blocked,No,Helmet-to-body,30789,Tackling,Yes,Oakland-Alameda County Coliseum
+2017,506,1988,27654,Tackling,No,Helmet-to-helmet,33127,Tackled,No,M&T Bank Stadium
+2017,553,1683,23742,Tackled,No,Helmet-to-helmet,31785,Tackling,No,MetLife Stadium
+2017,567,1407,32214,Blocked,No,Helmet-to-helmet,32807,Blocked,Yes,MetLife
+2017,585,733,33121,Tackling,No,Helmet-to-body,28249,Tackled,No,Nissan Stadium
+2017,585,2208,32007,Blocked,No,Helmet-to-helmet,32998,Blocking,No,Nissan Stadium
+2017,601,602,31023,Tackling,No,Helmet-to-body,31941,Tackled,No,Sports Authority Field at Mile High
+2017,607,978,30786,Blocking,No,Helmet-to-helmet,29815,Blocked,No,Lucas Oil Stadium
+2017,618,2792,26035,Tackled,No,Helmet-to-body,27442,Tackling,No,CenturyLink Field
