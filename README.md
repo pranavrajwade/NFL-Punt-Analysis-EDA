@@ -1,2 +1,2 @@
 # NFL-Punt-Analysis-EDA
-Exploratory Data Analysis on the NFL Punt Kaggle Competition using  - dplyr, ggplot2
+Exploratory Data Analysis on the NFL Punt Kaggle Competition data using  - dplyr, ggplot2
